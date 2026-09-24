@@ -1,7 +1,7 @@
 """
 data_generator.py
 
-Utilities for generating synthetic ("phantom") datasets from known
+Utilities for generating synthetic ("Hello World") datasets from known
 analytical models.
 
 This module is used throughout the CMSE 802 analytical modeling unit.

@@ -27,7 +27,6 @@ dependencies:
   - matplotlib
   - pandas
   - sympy
-  - seaboarn
   - statsmodels
   - pip:
       - StackGP
